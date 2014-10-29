@@ -1,0 +1,4 @@
+#filename { border: none; background: none; color: #000; width: auto !important;}
+#pdf-form input[type=text] { width: 100%; }
+#pdf-cat-list { padding: 0; margin: 0; width: 100%; } 
+#pdf-cat-list li { display: inline-block; width: 45% !important; float: left; } 
